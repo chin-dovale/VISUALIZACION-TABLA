@@ -1,7 +1,7 @@
 //# VISUALIZACION-TABLA
 //Visualización de tabla que muestra el porcentaje de color en RGB de cada uno de los colores que conforman la paleta de colores //de una imagen.
 
-//TABLA CSV
+//TABLA CSV (las líneas comienzan con cada color)
 
 COLOR 1,229,89.8,212,83.1,201,78.8
 COLOR 2,229,89.8,200,78.4,156,61.2
